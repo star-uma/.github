@@ -1,21 +1,22 @@
-# [RoboRescue UMA](https://roborescue.uma.es)
+# [STAR UMA](https://star-uma.github.io/)
 
-<img src="https://github.com/user-attachments/assets/ab9ed6a9-965b-4166-8ae4-e6f4a5f7fe45" align="center">
+<img width="2719" height="1360" alt="STAR_2_1_negativo" src="https://github.com/user-attachments/assets/e53fee8f-4586-4c49-8350-340446a3114c" />
 
 
 
-## RoboRescue UMA | University of Málaga
+## STAR UMA | University of Málaga
 
-**RoboRescue UMA is a robotics team with the aim of building a robot for participating in the RoboCup Rescue Robot League.**
+**STAR UMA is a robotics team with the aim of building robots for participating in diferent robotics competitions.**
 
 Our team is comprised of students with all sorts of abilities. Being part of this group is an enriching experience for all the members that can learn different skills from their peers and contribute to an exciting project in which knowledge from several fields is required. Electronics, programming, communication protocols, 3D modeling and printing are some examples. However, nothing is more crucial than working as a team and helping each other to overcome the challenges that show up everyday. On this website, we would like to share with you the results of our long but enjoyable journey. 
 
 
-[Web](https://roborescue.uma.es/) |
+[Web]([https://roborescue.uma.es/](https://star-uma.github.io/)) |
 [LinkedIn](https://www.linkedin.com/company/roborescue-uma/) |
 [Instagram](https://www.instagram.com/roborescueuma/?igshid=YmMyMTA2M2Y%3D) |
 [Mail](mailto:roborescue@uma.es)
 
+<!--
 ## RoboRescue UMA Github Repositories Organization
 
 This Github organization contains code, documentation and additional material elaborated by the RoboRescue UMA Team. All this information is organized in github repositories structured as follows
@@ -28,9 +29,9 @@ This Github organization contains code, documentation and additional material el
 - [Utils](https://github.com/RoboRescueUMA/.github/blob/main/docs/utils_repos.md)
 - [Courses and Tutorials](https://github.com/RoboRescueUMA/rr_welcome_kit)
 - [Others](https://github.com/RoboRescueUMA/.github/blob/main/docs/others_repos.md)
+-->
 
-
-## RoboRescue Colaborative Professors
+## STAR Colaborative Professors
 
   - Jesús Manuel Gómez de Gabriel, Departamento de Ingenierías de Sistemas y Automática
   - Amalia Cristina Urdiales García, Departamento de Tecnología Electrónica
